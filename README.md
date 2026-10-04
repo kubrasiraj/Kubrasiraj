@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Kubra Siraj
 
-<!--
-**kubrasiraj/Kubrasiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on Generative AI, Agentic AI, and Python Backend Development.
 
-Here are some ideas to get you started:
+I build practical AI-powered applications and production-style backend APIs using Python, FastAPI, PostgreSQL, RAG, and LLM technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- Generative AI & LLM Engineering
+- Agentic AI
+- RAG & AI Application Development
+- FastAPI & Backend Engineering
+- PostgreSQL & API Architecture
+
+Tech Stack:
+Python | FastAPI | PostgreSQL | SQLAlchemy | LangChain
+RAG | LLM APIs | NumPy | Pandas | Git | GitHub
+
+
+
+Currently looking for:
+AI Engineering / Generative AI / Python Backend opportunities
+
+LinkedIn: [https://www.linkedin.com/in/kubra-siraj-263511383?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+Email: [kubrasiraj267@gmail.com]
