@@ -21,4 +21,5 @@ Currently looking for:
 AI Engineering / Generative AI / Python Backend opportunities
 
 LinkedIn: [https://www.linkedin.com/in/kubra-siraj-263511383?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+
 Email: [kubrasiraj267@gmail.com]
